@@ -387,17 +387,3 @@ Interested in getting involved? We would like to help you!
 * If you have some wanderful ideas, send email to fatedier@gmail.com.
 
 **Note: We prefer you to give your advise in [issues](https://github.com/fatedier/frp/issues), so others with a same question can search it quickly and we don't need to answer them repeatly.**
-
-## Donation
-
-If frp help you a lot, you can support us by:
-
-frp QQ group: 606194980
-
-### AliPay
-
-![donation-alipay](/doc/pic/donate-alipay.png)
-
-### Paypal
-
-Donate money by [paypal](https://www.paypal.me/fatedier) to my account **fatedier@gmail.com**.
